@@ -1,3 +1,4 @@
 function text() {
-	alert("hello")
+	alert("hello");
+	console.log("加油");
 }
